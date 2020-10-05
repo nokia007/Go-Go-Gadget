@@ -1,4 +1,8 @@
 # Go-Go-Gadget
+## 20.10.05.01
+[[VirusTotal]](https://www.virustotal.com/gui/file/4476d156207de6f49f4cefbc897d3a2342842c8f472459afdeeba64a80a5f33b/detection)<br>
+1. Add reset icon cache function.
+<br><br>
 ## 20.06.12.01
 [[VirusTotal]](https://www.virustotal.com/gui/file/d669813d5d6dc48542d45cf9e584e5f9f7718ac41e4f18269cd2b479962a105f/detection)<br>
 1. Replace PDF-XChange Viewer with Sumatra PDF in the toolbox page.
