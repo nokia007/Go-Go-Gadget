@@ -1,4 +1,9 @@
 # Go-Go-Gadget
+## 21.12.20.01
+[[VirusTotal]](https://www.virustotal.com/gui/file/c19fbf61ba54619d797245e458018d313f4c96fcbab5b89cca56a359b5fff0c1/detection)<br>
+1. Add support for Windows11.
+2. Add System Restore shortcut in miscellaneous settings.
+<br><br>
 ## 20.10.05.01
 [[VirusTotal]](https://www.virustotal.com/gui/file/4476d156207de6f49f4cefbc897d3a2342842c8f472459afdeeba64a80a5f33b/detection)<br>
 1. Add reset icon cache function.
