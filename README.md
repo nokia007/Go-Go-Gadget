@@ -1,6 +1,6 @@
 # Go-Go-Gadget
-## 21.12.21.01
-[[VirusTotal]](https://www.virustotal.com/gui/file/d4197ea55044d58b0166c70c39ec75bfd31ef416daab33a84aebcf284330275e/detection)<br>
+## 21.12.24.01
+[[VirusTotal]](https://www.virustotal.com/gui/file/2cd98aee37333060de0630f33ad8f0447c7c5d96430f04bff2b03ed4ff125179/detection)<br>
 1. Add support for Windows11.
 2. Add System Restore shortcut in miscellaneous settings.
 <br><br>
