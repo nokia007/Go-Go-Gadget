@@ -1,4 +1,8 @@
 # Go-Go-Gadget
+## 22.03.24.01
+[[VirusTotal]](https://www.virustotal.com/gui/file/aa6731d1e0f3e5f02caf76f32ebcf48158d9f7e881108dcbbc6b680ed27500f8)<br>
+1. Add Windows Defender Firewall shortcut in miscellaneous settings.
+<br><br>
 ## 22.01.04.01
 [[VirusTotal]](https://www.virustotal.com/gui/file/834d6e7343dd96d04767c2a4ab5afc78d262b84407218c7198ef5381f362611a)<br>
 1. Add support for Windows11.
