@@ -1,4 +1,8 @@
 # Go-Go-Gadget
+## 22.05.31.01
+[[VirusTotal]](https://www.virustotal.com/gui/file/b0f64ddd94ec0acb8bafe807783d4403b6ec66fb2ac4f8bf3fff3e76ff51427f)<br>
+1. Add a tip for disabling Windows Defender Firewall service (mpssvc).
+<br><br>
 ## 22.03.24.01
 [[VirusTotal]](https://www.virustotal.com/gui/file/aa6731d1e0f3e5f02caf76f32ebcf48158d9f7e881108dcbbc6b680ed27500f8)<br>
 1. Add Windows Defender Firewall shortcut in miscellaneous settings.
